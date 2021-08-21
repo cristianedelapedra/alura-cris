@@ -1,0 +1,13 @@
+Comando                                                 Função
+clear                                                   Limpa os comandos 
+git --version                                           Ver versão do git
+cd d:/cris/alura/git-github                             Acessar uma pasta
+ls                                                      Ver arquivos da pasta 
+git init                                                Inicia um repositório, ou seja enxerga a pasta como um repositório e passa a observar as mudanças em seus arquivos
+git status                                              Analisar o estado do repositório
+git config --local user.name "Cristiane"                Definir o autor das alterações do código
+git config --local user.email crisdelapedra@gmail.com   Definir o autor do email
+git add index.html                                      Passa a monitorar o arquivo informado no repositório
+git add .                                               Passa a monitorar todos os arquivo do repositório
+
+
