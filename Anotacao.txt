@@ -1,0 +1,17 @@
+JavaScript para back-end
+https://cursos.alura.com.br/formacao-js-backend
+-------------------------------------------------------------------------------------------------------------
+
+Para executar um arquivo .js:
+
+1- Faça o código javascript em um editor texto (ex: sublime, VS Code) e salve como .js
+2- No prompt do DOS (cmd) entre na pasta que contém o arquivo .js e execute o arquivo .js
+   Ex: D:\Cris\Alura\Node>node teste.js
+
+Para executar comandos direto no node:
+1- Depois de instalar, abra o node (windows + Node)
+2- Digite .editor
+3- Digite o código javascript
+4- Digite CTRL + D
+
+* .help para saber mais... 
